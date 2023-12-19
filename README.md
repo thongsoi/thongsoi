@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thongsoi
 - 👀 I’m interested in web & mobile app development.
-- 🌱 I’m currently learning Golang, PostgreSQL, Linux server.
+- 🌱 I’m currently learning React, Golang, PostgreSQL and Linux server.
 - 💞️ I’m looking to collaborate on web and mobile app development.
 - 📫 You can reach me at w.thongsoi@gmail.com.
 
