@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thongsoi
 - 👀 I’m interested in web & mobile app development.
-- 🌱 I’m learning HTMX, TailwindCSS, Golang, PostgreSQL and Ubuntu server.
+- 🌱 I’m learning HTMX, Golang, PostgreSQL and Ubuntu server.
 - 💞️ I’m looking to collaborate on web and mobile app development.
 - 📫 You can reach me at w.thongsoi@gmail.com.
 
