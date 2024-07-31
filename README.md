@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thongsoi
-- 👀 I’m interested in web & mobile app development.
-- 🌱 I’m learning HTML, Golang, PostgreSQL and Ubuntu server.
-- 💞️ I’m looking to collaborate on a platform web app development.
+- 👀 I’m interested in technology, innovation and entrepreneurship.
+- 🌱 I’m learning tech stack of HTML, CSS, JS, Golang, PostgreSQL and Ubuntu server to build an exchange platform and IOT project.
 - 📫 You can reach me at w.thongsoi@gmail.com.
 
 <!---
