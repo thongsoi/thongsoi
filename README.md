@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thongsoi
 - 👀 I’m interested in technology, innovation and entrepreneurship.
-- 🌱 I’m learning the tech stack of HTML, CSS, JS, Golang, PostgreSQL and Ubuntu server to build an exchange platform and IOT project.
+- 🌱 I’m learning the tech stack of HTML, CSS, JS, Golang, PostgreSQL and Ubuntu server to build an exchange platform and an IOT project.
 - 📫 You can reach me at w.thongsoi@gmail.com.
 
 <!---
