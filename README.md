@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thongsoi
-- 👀 I’m interested in technology, innovation and entrepreneurship.
-- 🌱 I’m learning and building an exchange platform using HTMX, CSS, Golang, PostgreSQL and Ubuntu server. 
+- 👀 I’m a technologist, innovator and entrepreneur.
+- 🌱 I’m learning and building an exchange platform using HTML, CSS, JS, Golang, PostgreSQL and Ubuntu server. 
 - 📫 You can reach me at w.thongsoi@gmail.com.
 
 <!---
